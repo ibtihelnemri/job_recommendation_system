@@ -1,0 +1,24 @@
+# For handling environment variables
+python-dotenv
+
+# For interacting with the Adzuna API
+requests
+
+# For data handling and manipulation
+pandas
+numpy
+
+# For Natural Language Processing (NLP)
+spacy
+
+# For similarity calculations (TF-IDF, cosine similarity)
+scikit-learn
+
+# Optional: OpenAI GPT integration (remove if not using OpenAI)
+openai
+
+# Optional: Web scraping (remove if not doing any scraping)
+beautifulsoup4
+
+# Optional: Word embeddings (remove if not using word2vec in the future)
+gensim
